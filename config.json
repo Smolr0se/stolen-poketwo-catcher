@@ -1,0 +1,13 @@
+{
+  "sleeping": true,
+  "incenseMode": false,
+  "reactAfterCatch": true,
+  "logCatches": true,
+  "lowIVLog": "10.00",
+  "highIVLog": "85.00",
+  "logWebhook": "",
+  "ownerID": [ "" ],
+  "prefix": "!",
+  "globalCatch": false,
+  "blacklistedGuilds": [ "" ]
+}
